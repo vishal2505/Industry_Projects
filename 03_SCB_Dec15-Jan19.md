@@ -1,4 +1,4 @@
-# Projects 
+# Projects
 
 ## Single Customer View Framework                        Mar’17 – Jan’19
 
