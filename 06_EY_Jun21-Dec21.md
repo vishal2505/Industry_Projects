@@ -2,7 +2,7 @@
 
 ## IFRS17 Implementation for a Leading Insurance Client
 
-The aim of the project is to design and build a data staging layer that will be used for extracting the data for IFRS 17 regulatory reporting.
+The aim of the project was to design and build a data staging layer on Cloud where data from different sources will be collected and an extraction layer will be built for IFRS 17 regulatory reporting in a pre-defined data format.
 
 ### Roles and Responsibilities
 
