@@ -1,6 +1,6 @@
 # Projects
 
-## Single Customer View Framework                        Mar’17 – Jan’19
+## Single Customer View Framework                        | Mar’17 – Jan’19
 
 The objective of this project is to create a Data Lab which will help to enable a 360-degree view of the customers by joining data across systems and countries. It will also help to capture the large volume of data in a single repository.  
 
@@ -14,7 +14,7 @@ The objective of this project is to create a Data Lab which will help to enable 
 #### Technologies used: 
 Spark Core, Spark SQL, Scala, Hadoop, Hive, HDFS, Apache Nifi, Control-M
 
-## Real-time Data Ingestion Framework                    May’16 – Mar’17
+## Real-time Data Ingestion Framework                    | May’16 – Mar’17
 
 The objective of this project is to develop a real-time streaming application in which XML messages will be sourced from various sources and the messages will be parsed into different types of fields and then store those fields into various hive tables. The table data will be further used by the downstream application for different types of analytics. 
 
@@ -29,7 +29,7 @@ The objective of this project is to develop a real-time streaming application in
 Spark, Scala, Kafka, Zookeeper, Oozie, HBase, Hadoop, Hive, Java	
 
 
-## Data Ingestion Framework (Batch) 					            Dec’15 – May’16
+## Data Ingestion Framework (Batch) 					            | Dec’15 – May’16
 
 The objective of this project is to develop a common data lake where data from various payment sources will be sources using Hadoop technologies. 
 
