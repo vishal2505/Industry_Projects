@@ -1,12 +1,12 @@
 # Projects
 
-## Bankline – 									July’12 – May’14
+## Bankline 									      | July’12 – May’14
 
-The project was intended to credit related changes in the Bankline Screens including payment, Bulk Transfer, Manage Payments.
+The project was intended for credit-related changes in the Bankline Screens including payment, Bulk Transfer, and Manage Payments.
 
 ### Roles and Responsibilities
 
-  1. Development of Beans, JSPs, class files and validations flow
+  1. Development of Beans, JSPs, class files, and validations flow
   2. Unit Testing and System testing
   3. Support during User Acceptance Testing 
 
@@ -15,7 +15,7 @@ Java, Servlet, JSP, Struts, DB2, Websphere
 #### Client: Royal Bank of Scotland, UK 
 
 
-## Telephony Transformation Programme – 					July’11 – Mar’12
+## Telephony Transformation Programme  | 					July’11 – Mar’12
 
 The aim of the project is Telephony Automation. The new telephony application estate will offer mostly the same business functionality and services as the existing system. The CICS Services will be re-engineered as reusable multi-channel services or decommissioned.
 
@@ -30,9 +30,9 @@ The aim of the project is Telephony Automation. The new telephony application es
 Core Java, DB2, JSPs, Websphere          
 #### Client: Royal Bank of Scotland, UK
  
-## Rainbow-Account Segregation and APS Enquiry				Jan ’11 – June ’11
+## Rainbow-Account Segregation and APS Enquiry   | Jan ’11 – June ’11
 
-Rainbow-Account Segregation and APS Enquiry is part of client initiative to re-structure their presence across globe. 
+Rainbow-Account Segregation and APS Enquiry is part of the client's initiative to re-structure their presence across the globe. 
 
 ### Roles and Responsibilities
 
